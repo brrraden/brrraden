@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hau mitakuyapi! 👋
+
+*Caution: Student Driver*
+
+👶 Neonate in the Advancing Indigenous Language Technologies project at the University of Arizona
+
+🦬 Sisiṭuŋwaŋ-Waḣpeṭuŋwaŋ Daḳota / Waṡicuŋ
+
+(he/they)
 
 <!--
 **brrraden/brrraden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
